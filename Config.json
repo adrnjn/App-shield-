@@ -1,0 +1,13 @@
+{
+
+  "ProgramPath": "C:\\Path\\To\\Your\\Program.exe",
+
+  "Password": "YourPasswordHere",
+
+  "SoundPath": "C:\\Path\\To\\Your\\SoundFile.wav",
+
+  "NotificationScriptPath": "C:\\Path\\To\\Your\\NotificationScript.ps1"
+
+}
+
+
