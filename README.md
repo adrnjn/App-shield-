@@ -1,9 +1,7 @@
   <p align="center">
   <img src="/Assets/logo.png" alt="App Shield Logo" width="80">
     </p>
-  <p align="center">
-   App Shield
-  </p>
+ <h2 align="center"> App Shield</h2>
 
 ![Static Badge](https://img.shields.io/badge/windows-10%2F11-blue?color=cyan)
 ![Static Badge](https://img.shields.io/badge/PORTABLE-orange?style=flat&color=21af90)
@@ -18,3 +16,4 @@ Windows does not natively support password protection for individual application
 
 Instead of directly launching protected applications, users launch App Shield, which acts as a password gate. Upon successful authentication, App Shield then launches the actual application. Using this approach, you can add protection to multiple programs, files, and directories without worrying about performance impact or system instability, as the app only runs when you attempt to launch a protected item.
 
+<h2 align="center">Centered Heading</h2>
