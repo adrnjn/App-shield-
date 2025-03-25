@@ -3,7 +3,7 @@
     </p>
  <h2 align="center"> App Shield</h2>
 
-<p align="center"> A simple,straightforward and effective way to password-protect applications on Windows.</p>
+<p align="center"> A simple, straightforward and effective way to password-protect applications on Windows.</p>
 <p align="center">
   <a href='https://github.com/adrnjn/App-shield-/blob/main/LICENSE' target="_blank"><img alt='' src='https://img.shields.io/badge/license_-MIT-100000?style=plastic&logo=&logoColor=807979&labelColor=E0EAE2&color=C2ED07'/></a>
   <img src="https://img.shields.io/badge/windows-10%2F11-blue?color=cyan" alt="Windows 10/11">
