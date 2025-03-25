@@ -75,7 +75,10 @@ Instead of directly launching protected applications, users launch App Shield, w
 <img src="https://i.imgur.com/BKO7oD5.png" alt="app_shield_UI">
 <img src="https://i.imgur.com/Hbc0IRD.png" alt="Failed auth">
 
-
+## Known Issues
+> [!WARNING]
+> The app can sometimes take 10-15secs to launch, if system is under a heavy load
+> which can delay the launch of the protected app.Tho this has nothing to do with th app itself!
 
 
 
