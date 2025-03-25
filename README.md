@@ -1,7 +1,9 @@
-<div style="display: inline-flex; align-items: center;">
+  <p align="center">
   <img src="/Assets/logo.png" alt="App Shield Logo" width="80">
-  <h1 style="margin-left: 10px;">App Shield</h1>
-</div>
+    </p>
+  <p align="center">
+   App Shield
+  </p>
 
 ![Static Badge](https://img.shields.io/badge/windows-10%2F11-blue?color=cyan)
 ![Static Badge](https://img.shields.io/badge/PORTABLE-orange?style=flat&color=21af90)
