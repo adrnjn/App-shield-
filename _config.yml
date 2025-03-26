@@ -1,3 +1,4 @@
-title: App Shield Documentation
-theme: minima  # A simple default theme
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 baseurl: /App-shield # Your repository name (important for root-relative URLs)
