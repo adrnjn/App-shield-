@@ -23,3 +23,5 @@ You don't need to configure the notification sound and message multiple times un
   - **Web links**: `URL`  
   - **Media files**: `.mp4`, `.mp3`, `.wav`  
   - **Folders**  
+# How does It work?
+efwergerg
