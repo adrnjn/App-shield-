@@ -1,5 +1,5 @@
  
- # App Shield
+<h2 align="center"> App Shield</h2>
 
 <p align="center"> A simple, straightforward and effective way to password-protect applications on Windows.</p>
 <p align="center">
