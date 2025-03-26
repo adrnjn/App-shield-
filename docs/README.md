@@ -8,13 +8,14 @@
   <img src="https://img.shields.io/badge/PORTABLE-orange?style=flat&color=21af90" alt="Portable">
   <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='.net' src='https://img.shields.io/badge/.NET_core-100000?style=plastic&logo=.net&logoColor=807979&labelColor=F7F8FD&color=12CAB4'/></a>
   <img src="https://img.shields.io/badge/-100000?style=flat&logo=c#&logoColor=1AD6F7&labelColor=F4F4F4&color=27B30F" alt="C#">
-  <a href="/MainWindow.xaml.cs" target="_blank">
+  <a href="https://github.com/adrnjn/App-shield-/blob/main/MainWindow.xaml.cs" target="_blank">
     <img src="https://img.shields.io/badge/Source-available_-100000?style=plastic&logo=&logoColor=1AD6F7&labelColor=383838&color=D33A0F" alt="Source Code">
   </a>
 </p>
 
 ***
 
+<h2 align="center"> 📌 Introduction</h2>
 
 <p align="center">
 Windows does not natively support password protection for individual applications or files. While you can encrypt files using built-in tools like EFS or third-party software, applying passwords to programs typically requires third-party solutions. These solutions often involve system-level modifications or hooks that can impact system performance and security
