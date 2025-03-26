@@ -1,4 +1,4 @@
-- [Home](README.md)
-- [Getting Started](getting-started.md)
-- [Features](features.md)
-- [About](about.md)
+- [Home](/)
+- [Getting Started](/getting-started.md)
+- [Installation](/installation.md)
+- [Configuration](/configuration.md)
