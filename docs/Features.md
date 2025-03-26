@@ -1,9 +1,9 @@
-## 🚀 Fast & Easy Setup  
+### 🚀 Fast & Easy Setup  
 - The app is **portable**, **lightweight**, and **self-contained**  
 - Setup takes **~5-10 minutes**  
 - Quick setup guide available  
 
-## ⚙️ Simple Configurability  
+### ⚙️ Simple Configurability  
 - Easy to configure using `config.json`  
 - Things that can be configured:  
   - `Program path`  
