@@ -1,5 +1,5 @@
  
-# <p align="center"> App Shield </p>
+<h1 align="center">App Shield</h1>
 
 <p align="center"> A simple, straightforward and effective way to password-protect applications on Windows.</p>
 <p align="center">
@@ -25,14 +25,14 @@ Windows does not natively support password protection for individual application
 Instead of directly launching protected applications, users launch App Shield, which acts as a password gate. Upon successful authentication, App Shield then launches the actual application. Using this approach, you can add protection to multiple programs, files, and directories without worrying about performance impact or system instability, as the app only runs when you attempt to launch a protected item.
 </p>
 
-## Key Features  
+ 
 
-### 🚀 Fast & Easy Setup  
+## 🚀 Fast & Easy Setup  
 - The app is **portable**, **lightweight**, and **self-contained**  
 - Setup takes **~5-10 minutes**  
 - Quick setup guide available  
 
-### ⚙️ Simple Configurability  
+## ⚙️ Simple Configurability  
 - Easy to configure using `config.json`  
 - Things that can be configured:  
   - `Program path`  
@@ -43,7 +43,7 @@ Instead of directly launching protected applications, users launch App Shield, w
 **Note:**  
 You don't need to configure the notification sound and message multiple times unless you want different sounds for each app. 
 
-### 📈 Easy Scalability  
+## 📈 Easy Scalability  
 - Being **portable** allows usage with multiple programs with **minimum hassle**  
   - Most of the time, you'd only need to change `ProgramPath` and `password` in `config.json`  
   - The `config.json` supports multiple file formats:  
