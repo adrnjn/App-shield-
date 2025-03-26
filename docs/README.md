@@ -55,7 +55,7 @@ You don't need to configure the notification sound and message multiple times un
 
 
 
-## Screenshots
+## 🖼 Screenshots
 
 <img src="https://i.imgur.com/KKAL92I.png" alt="app_shield_UI">
 <img src="https://i.imgur.com/BKO7oD5.png" alt="app_shield_UI">
