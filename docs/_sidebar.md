@@ -1,5 +1,5 @@
 - [Home](/)
-- [Features](features.md)
+- [Features](/features.md)
 - [Introduction](/getting-started/intro.md)
 - [Installation](/getting-started/installation.md)
 - [Configuration](/getting-started/configuration.md)
