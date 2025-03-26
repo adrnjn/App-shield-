@@ -15,7 +15,7 @@
 
 ***
 # 📌 Introduction
-&nbsp;
+test
 ## Why app Shield
 
 Windows does not natively support password protection for individual applications. While tools like **Encrypting File System (EFS)** and **BitLocker** provide encryption, they do not prompt for a password each time a program or file is accessed.  
@@ -108,7 +108,7 @@ App Shield mitigates these risks by operating at a **launcher level**, ensuring:
 
 
 
-## 🖼 Screenshots
+# 🖼 Screenshots
 
 <img src="https://i.imgur.com/KKAL92I.png" alt="app_shield_UI">
 <img src="https://i.imgur.com/BKO7oD5.png" alt="app_shield_UI">
