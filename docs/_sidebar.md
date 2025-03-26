@@ -1,9 +1,9 @@
 - [Home](/)
 - [Features](features.md)
   - **Setup**
-    - [Fast & Easy Setup](features.md#fast-easy-setup)
-    - [Simple Configurability](features.md#simple-configurability)
-    - [Easy Scalability](features.md#easy-scalability)
+    - [Fast & Easy Setup](features.md##fast-easy-setup)
+    - [Simple Configurability](features.md##simple-configurability)
+    - [Easy Scalability](features.md##easy-scalability)
   - [How It Works](features.md#how-it-works)
 - Getting Started
     - [Introduction](/getting-started/intro.md)
