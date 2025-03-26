@@ -15,44 +15,45 @@
 
 ***
 
-<h2 align="center"> 📌 Introduction</h2>
+## Why app Shield
 
-<p align="center">
-Windows does not natively support password protection for individual applications or files. While you can encrypt files using built-in tools like EFS or third-party software, applying passwords to programs typically requires third-party solutions. These solutions often involve system-level modifications or hooks that can impact system performance and security
-</p>
+Windows does not natively support password protection for individual applications. While tools like **Encrypting File System (EFS)** and **BitLocker** provide encryption, they do not prompt for a password each time a program or file is accessed.  
 
-<p align="center"> App Shield offers a straightforward workaround</p>
-<p align="center">
+### ❌ Windows Limitations  
+- **No Built-in App Locking**  
+  - Windows lacks a feature to password-protect `.exe` files or require authentication for reopening apps.  
+- **EFS & BitLocker**  
+  - Encrypt data but do not provide individual file/app password protection once the user is logged in.  
+- **User Account Control (UAC)**  
+  - Prompts for admin access but does not function as an app-specific lock.  
+
+### ✅ Third-Party Solutions  
+- **Application Locker Software**  
+  - Monitors and restricts access to apps via password prompts.  
+- **Security Suites**  
+  - Some antivirus or security tools offer app restriction features.  
+- **Virtualization & Sandboxing**  
+  - Running apps in a virtual machine can add isolation and password control.  
+
+### ⚠️ Considerations for Third-Party Solutions  
+- **Performance Impact**  
+  - Background processes can consume resources.  
+- **System Stability**  
+  - Some solutions may cause conflicts or compatibility issues.  
+
+
+
+
+
+
+ App Shield offers a straightforward workaround</p>
+
 Instead of directly launching protected applications, users launch App Shield, which acts as a password gate. Upon successful authentication, App Shield then launches the actual application. Using this approach, you can add protection to multiple programs, files, and directories without worrying about performance impact or system instability, as the app only runs when you attempt to launch a protected item.
-</p>
+
 
  
 
-## 🚀 Fast & Easy Setup  
-- The app is **portable**, **lightweight**, and **self-contained**  
-- Setup takes **~5-10 minutes**  
-- Quick setup guide available  
 
-## ⚙️ Simple Configurability  
-- Easy to configure using `config.json`  
-- Things that can be configured:  
-  - `Program path`  
-  - `Password`  
-  - `Notification sound`  
-  - `Notification message`  
-
-**Note:**  
-You don't need to configure the notification sound and message multiple times unless you want different sounds for each app. 
-
-## 📈 Easy Scalability  
-- Being **portable** allows usage with multiple programs with **minimum hassle**  
-  - Most of the time, you'd only need to change `ProgramPath` and `password` in `config.json`  
-  - The `config.json` supports multiple file formats:  
-  - **Executable files**: `.exe`  
-  - **Shortcuts**: `.lnk`  
-  - **Web links**: `URL`  
-  - **Media files**: `.mp4`, `.mp3`, `.wav`  
-  - **Folders**  
 
 
 
