@@ -1,4 +1,3 @@
-
 # Welcome to AppShield Docs 🚀
 
 AppShield is a password-protected launcher that allows you to start different programs securely.
@@ -13,4 +12,7 @@ AppShield is a password-protected launcher that allows you to start different pr
 2. Configure your apps in `config.json`.
 3. Launch AppShield and enter your password.
 
-## 📂 File Structure
+## 📌 More Info
+- [GitHub Repository](https://github.com/adrnjn/App-shield-)
+- [Installation Guide](installation.md)
+- [Configuration](configuration.md)
