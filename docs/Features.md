@@ -26,15 +26,3 @@ You don't need to configure the notification sound and message multiple times un
 
 ---
 
-# How Does It Work?  
-eabcd  
-
-## 📌 efgh  
-xyzc  
-
-## 🔧 ACdc  
-345  
-
----
-
-# 📖 EFGH  
