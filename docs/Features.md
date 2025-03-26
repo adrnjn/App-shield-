@@ -12,24 +12,29 @@
   - `Notification message`  
 
 **Note:**  
-You don't need to configure the notification sound and message multiple times unless you want different sounds for each app. 
+You don't need to configure the notification sound and message multiple times unless you want different sounds for each app.  
 
 ## 📈 Easy Scalability  
 - Being **portable** allows usage with multiple programs with **minimum hassle**  
   - Most of the time, you'd only need to change `ProgramPath` and `password` in `config.json`  
   - The `config.json` supports multiple file formats:  
-  - **Executable files**: `.exe`  
-  - **Shortcuts**: `.lnk`  
-  - **Web links**: `URL`  
-  - **Media files**: `.mp4`, `.mp3`, `.wav`  
-  - **Folders**  
-# How does It work?
-eabcd
-### efgh
-xyzc
-## ACdc
-345
+    - **Executable files**: `.exe`  
+    - **Shortcuts**: `.lnk`  
+    - **Web links**: `URL`  
+    - **Media files**: `.mp4`, `.mp3`, `.wav`  
+    - **Folders**  
 
-# EFGH
+---
 
+# 🔍 How Does It Work?  
+eabcd  
 
+## 📌 efgh  
+xyzc  
+
+## 🔧 ACdc  
+345  
+
+---
+
+# 📖 EFGH  
