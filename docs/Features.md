@@ -24,5 +24,4 @@ You don't need to configure the notification sound and message multiple times un
     - **Media files**: `.mp4`, `.mp3`, `.wav`  
     - **Folders**  
 
----
 # How does it work
