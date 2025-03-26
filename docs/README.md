@@ -1,7 +1,5 @@
-  <p align="center">
-  <img src="/Assets/logo.png" alt="App Shield Logo" width="80">
-    </p>
- <h2 align="center"> App Shield</h2>
+ 
+ # App Shield
 
 <p align="center"> A simple, straightforward and effective way to password-protect applications on Windows.</p>
 <p align="center">
@@ -30,7 +28,7 @@ Instead of directly launching protected applications, users launch App Shield, w
 ## Key Features
 <details>
 
- **<summary><a href='/MainWindow.xaml.cs' target="_blank"><img alt='' src='https://img.shields.io/badge/Fast_& Easy setup-100000?style=flat-square&logo=&logoColor=1AD6F7&labelColor=565353&color=FF08DA'/></a></summary>**
+ **<summary>Fast & Easy Setup </summary>**
  *  The app is portable ,Lightweight and self contained.
  *  Setup takes ~ 5-10mins
     * Quick setup guide 
@@ -39,7 +37,7 @@ Instead of directly launching protected applications, users launch App Shield, w
 </details>
 <details>
 
- **<summary><a href='/MainWindow.xaml.cs' target="_blank"><img alt='' src='https://img.shields.io/badge/simple_Configurability-100000?style=flat-square&logo=&logoColor=1AD6F7&labelColor=565353&color=196233'/></a></summary>**
+ **<summary> simple Configurability</summary>**
  *  Easy to configure using `config.json`
     ###### Things that can be configured
     * `Program path`
@@ -48,38 +46,25 @@ Instead of directly launching protected applications, users launch App Shield, w
     * `notification message`
 
 
- > <a href='/MainWindow.xaml.cs' target="_blank"><img alt='' src='https://img.shields.io/badge/!_NOTE-100000?style=for-the-badge&logo=&logoColor=1AD6F7&labelColor=565353&color=0776EE'/></a>
->
-> you dont have to configure notification sound and message multiple times unless you want to have different notif sound for each app. <sub>[see documentation](https://)</sub>
+ 
  
 
 </details>
 <details>
     
-**<summary><a href='/MainWindow.xaml.cs' target="_blank"><img alt='' src='https://img.shields.io/badge/Easy_scalability-100000?style=flat-square&logo=&logoColor=1AD6F7&labelColor=565353&color=1A30B0'/></a> </summary>**
-* being portable gives it the ability to use the app with multiple programs with minimum hassle.(most of the time you'd only need to change `ProgramPath` and password in `config.json`)
-    <sub>[see documentation](https://)</sub>
+**<summary>Easy scalability  </summary>**
+* being portable gives it the ability to use the app with multiple programs with minimum hassle.(most of the time you'd only need to change `ProgramPath` and password in `config.json`)  
 * The `config` supports multiple file formats
     > `exe` , `.ink`(shortcuts), `URL` , `mp4,mp3,wav` , `folders`
 </details>
 
-## Installation
-- Head over to the Releases page
-- Look for the latest release version
 
-## Documentation
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/Documentation-page-100000?style=flat&logo=&logoColor=807979&labelColor=DD3C02&color=B2B5BD'/></a>
 
 ## Screenshots
 
 <img src="https://i.imgur.com/KKAL92I.png" alt="app_shield_UI">
 <img src="https://i.imgur.com/BKO7oD5.png" alt="app_shield_UI">
 <img src="https://i.imgur.com/Hbc0IRD.png" alt="Failed auth">
-
-## Known Issues
-> [!WARNING]
-> The app can sometimes take 10-15secs to launch, if system is under a heavy load
-> which can delay the launch of the protected app.Tho this has nothing to do with th app itself!
 
 
 
