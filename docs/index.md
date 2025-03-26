@@ -8,7 +8,3 @@ App Shield is a simple and effective way to password-protect applications on Win
 * [Usage](usage.md)
 * [Configuration](configuration.md)
 
-## Further Information
-
-* [Troubleshooting](troubleshooting.md)
-* [License](../LICENSE)
