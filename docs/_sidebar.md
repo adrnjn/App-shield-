@@ -1,8 +1,7 @@
 - [Home](/)
-- Features
-    - [Overview](/Features.md)
-    - [Key Feature 1](/features/feature1.md)
-    - [Key Feature 2](/features/feature2.md)
+- [Features](/Features.md)
+    - [Fast & Easy Setup](/Features.md#fast--easy-setup)
+    - [Simple Configurability](/Features.md#️-simple-configurability)
 - Getting Started
     - [Introduction](/getting-started/intro.md)
     - [Installation](/getting-started/installation.md)
