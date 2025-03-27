@@ -1,4 +1,4 @@
-# Features
+## Features
  ### 🚀 Fast & Easy Setup  
  - The app is **portable**, **lightweight**, and **self-contained**  
  - Setup takes **~5-10 minutes**  
@@ -25,4 +25,4 @@
      - **Media files**: `.mp4`, `.mp3`, `.wav`  
      - **Folders**  
 
-# How does it work
+## How does it work
