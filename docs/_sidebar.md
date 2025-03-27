@@ -1,8 +1,8 @@
 - [Home](/)
 - [Features](/Features.md)
 - Getting Started
-  - [Installation](Getting started/Installation.md)
-  - [Setup](Getting started/Setup.md)
+  - [Installation](Getting%20started/Installation.md)
+  - [Setup](Getting%20started/Setup.md)
 - [Introduction](/gettingstarted/intro.md)
 - [Installation](/getting-started/installation.md)
 - [Configuration](/getting-started/configuration.md)
