@@ -16,7 +16,7 @@
 ***
 ## 📌 Introduction
 
-## ***Why app Shield***
+### ***Why app Shield***
 
 Windows does not natively support password protection for individual applications. While tools like **Encrypting File System (EFS)** and **BitLocker** provide encryption, they do not prompt for a password each time a program or file is accessed.  
 
@@ -25,7 +25,7 @@ Windows does not natively support password protection for individual application
   - Windows lacks a feature to password-protect `.exe` files or require authentication for reopening apps.  
 - *EFS & BitLocker* 
   - Encrypt data but do not provide individual file/app password protection once the user is logged in.  
-- **User Account Control (UAC)**  
+- *User Account Control (UAC)* 
   - Prompts for admin access but does not function as an app-specific lock.  
 
 #### ✅ **Third-Party Solutions**  
