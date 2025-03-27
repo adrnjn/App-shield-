@@ -26,7 +26,7 @@
      - **Folders**  
 
 ## How does it work
--Here's a simple flowchart explaning the workings of the app
+- Here's a simple flowchart explaning the workings of the app
 <img src="https://imgur.com/NGj3ZO7.png">
 
 ## Core Mechanics 
@@ -55,6 +55,6 @@
 * AppShield initiates the launch of the original, protected program using the retrieved file path.
 * Once the protected program has started, the AppShield application closes itself.
 ---
--This way app shield is only launched when launching a program its linked with , nullifying any negative effect on system performance. 
--This also makes AppShield verly less intrusive, as it does not have to monitor you system continously to detect when a protected program is being launched.
--The App only runs when its launched othern than it wont run without any user activation.
+- This way app shield is only launched when launching a program its linked with , nullifying any negative effect on system performance. 
+- This also makes AppShield verly less intrusive, as it does not have to monitor you system continously to detect when a protected program is being launched.
+- The App only runs when its launched othern than it wont run without any user activation.
