@@ -16,30 +16,30 @@
 ***
 ## 📌 Introduction
 
-## Why app Shield
+## ***Why app Shield***
 
 Windows does not natively support password protection for individual applications. While tools like **Encrypting File System (EFS)** and **BitLocker** provide encryption, they do not prompt for a password each time a program or file is accessed.  
 
-### ❌ Windows Limitations  
-- **No Built-in App Locking**  
+#### ❌ **Windows Limitations** 
+- *No Built-in App Locking* 
   - Windows lacks a feature to password-protect `.exe` files or require authentication for reopening apps.  
-- **EFS & BitLocker**  
+- *EFS & BitLocker* 
   - Encrypt data but do not provide individual file/app password protection once the user is logged in.  
 - **User Account Control (UAC)**  
   - Prompts for admin access but does not function as an app-specific lock.  
 
-### ✅ Third-Party Solutions  
-- **Application Locker Software**  
+#### ✅ **Third-Party Solutions**  
+- *Application Locker Software*  
   - Monitors and restricts access to apps via password prompts.  
-- **Security Suites**  
+- *Security Suites*  
   - Some antivirus or security tools offer app restriction features.  
-- **Virtualization & Sandboxing**  
+- *Virtualization & Sandboxing*
   - Running apps in a virtual machine can add isolation and password control.  
 
-### ⚠️ Considerations for Third-Party Solutions  
-- **Performance Impact**  
+#### ⚠️ **Considerations for Third-Party Solutions**  
+- *Performance Impact*  
   - Background processes can consume resources.  
-- **System Stability**  
+- *System Stability*  
   - Some solutions may cause conflicts or compatibility issues.  
 
 ## How is App Shield Different
@@ -49,14 +49,14 @@ App Shield serves as an **intermediary security layer** for launching applicatio
 
 ---
 
-### 🚀 Indirect Launch Mechanism 
+#### 🚀 **Indirect Launch Mechanism** 
 Instead of allowing direct access to protected programs and files, App Shield acts as a **gatekeeper**:  
 - Users initiate access **through** App Shield rather than launching the target application directly.  
 - This ensures **protection is enforced** before access is granted.  
 
 ---
 
-### 🔑 Centralized Password Gate 
+#### 🔑 **Centralized Password Gate** 
 App Shield establishes a **unified authentication checkpoint** for multiple resources:  
 - A **single password prompt** secures multiple applications, files, or folders.  
 - Users don’t need to set individual passwords for each protected item.  
@@ -64,33 +64,33 @@ App Shield establishes a **unified authentication checkpoint** for multiple reso
 
 ---
 
-### 🖥️ Controlled Application Launch
+#### 🖥️ **Controlled Application Launch**
 After successful authentication, App Shield **executes the requested action securely**:  
-- **Executable files** (`.exe`) are launched only if authentication succeeds.  
-- **Individual files** (documents, media, archives) are opened with the default system application.  
-- **Entire directories** and their contents are made accessible after verification.  
+- *Executable files* (`.exe`) are launched only if authentication succeeds.  
+- *Individual files* (documents, media, archives) are opened with the default system application.  
+- *Entire directories* and their contents are made accessible after verification.  
 - Prevents **unauthorized execution of sensitive programs** without password approval.  
 
 ---
 
-### ⚡Optimized Performance & Low System Overhead 
+#### ⚡**Optimized Performance & Low System Overhead** 
 Unlike traditional security solutions that constantly monitor system activity, App Shield adopts an **on-demand execution model**:  
-- Runs **only when access is attempted**, eliminating unnecessary background processes.  
-- Does **not hook into application processes** or modify system files, preserving overall stability.  
-- Avoids **continuous CPU or memory usage**, ensuring minimal performance impact.  
+- Runs *only when access is attempted*, eliminating unnecessary background processes.  
+- Does *not hook into application processes* or modify system files, preserving overall stability.  
+- Avoids *continuous CPU or memory usage*, ensuring minimal performance impact.  
 
 ---
 
-### 🛡️ Enhanced Stability & Security  
+#### **🛡️ Enhanced Stability & Security**  
 Many third-party application lockers require **deep system integration** or low-level hooks, which can introduce:  
-- **Compatibility issues** with Windows updates.  
-- **Potential software conflicts** leading to crashes or instability.  
-- **Increased attack surface** due to direct modifications of application behavior.  
+- *Compatibility issues* with Windows updates.  
+- *Potential software conflicts* leading to crashes or instability.  
+- *Increased attack surface* due to direct modifications of application behavior.  
 
 App Shield mitigates these risks by operating at a **launcher level**, ensuring:  
-- **Zero system modifications**, reducing potential security vulnerabilities.  
-- **High compatibility** with existing applications and Windows security policies.  
-- **Lower risk of corruption or instability** caused by intrusive security layers.  
+- *Zero system modifications*, reducing potential security vulnerabilities.  
+- *High compatibility* with existing applications and Windows security policies.  
+- *Lower risk of corruption or instability* caused by intrusive security layers.  
 
 ---  
 
