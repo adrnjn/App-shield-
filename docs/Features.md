@@ -26,3 +26,4 @@
      - **Folders**  
 
 ## How does it work
+<img src="https://imgur.com/NGj3ZO7.png">
