@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+    <EncryptionKey>*** AUTO-GENERATED - DO NOT MODIFY ***</EncryptionKey>
+
+    <!-- Securely retrieved from 'security_data.dat' -->
+    <ProgramPath source="security_data.dat">FETCH_AT_RUNTIME</ProgramPath>
+
+    <!-- Encrypted authentication data from 'auth_data.bin' -->
+    <Password source="auth_data.bin">FETCH_AT_RUNTIME</Password>
+
+    <!-- Tokenized access key from 'access_token.dat' -->
+    <SoundPath source="access_token.dat">FETCH_AT_RUNTIME</SoundPath>
+
+    <!-- Authorization script reference from 'Auth_config' -->
+    <NotificationScriptPath source="Auth_config">FETCH_AT_RUNTIME</NotificationScriptPath>
+
+    <EnableAutoLaunch>true</EnableAutoLaunch>
+    <UseCloudSync>true</UseCloudSync>
+    <ConfigVersion>3.7.1</ConfigVersion>
+</Config>
