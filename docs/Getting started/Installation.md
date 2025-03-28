@@ -35,3 +35,7 @@
 ```
    * For now leave `ProgramPath` as it is.
     (you can also leave`password`for now if you wish to have diffrent password for each program)
+
+1. Copy the file path from Windows Explorer. [^1]
+
+[^1]: ![How to Copy File Path](https://i.imgur.com/ufIvyqG.png)
