@@ -9,8 +9,10 @@
         *  Notification.ps1 - Script for failed authentication message
 
 
-![Refrence image](https://i.imgur.com/2VPsysQ.png)
-*this is what the folder structure will look like*
+>![Refrence image](https://i.imgur.com/2VPsysQ.png)
+>
+>
+>*this is what the folder structure will look like*
       
 
 
@@ -38,7 +40,9 @@
 4. paste it next to `"SoundPath"`
 5. do the same for `Notification.ps1`
 6. save the config.
-    > ![config](https://i.imgur.com/HzLY9hM.png) 
+    > ![config](https://i.imgur.com/HzLY9hM.png)
+    >
+    > 
     > *at this stage your config should look like this*
 
 
@@ -48,6 +52,8 @@
 2. now Go to `Notification.ps1`
     - Right click and click on `EDIT` this wil open the powershell ISE
         > ![Edit ps1](https://i.imgur.com/GMekVSg.png)
+        >
+        > 
         > *dont double click it , this will just run the script*
 3. look for `#Play a sound`(use ctrl+F to search for it)
 4. paste in the file path of `Authentication_Failed.wav` next to `$soundPath =`
@@ -94,6 +100,8 @@ and you'd only have to change `ProgramPath"` and `"password"`.
         *  sometimes you might have to use `\\` inside the program path (eg: instead of `E:\AppShield_v1.0\Authentication_Failed.WAV` use `E:\\AppShield_v1.0\\Authentication_Failed.WAV`)
         *  Config errors ususally give you a warning message during execution idicationg of the error.
         > ![corect config](https://i.imgur.com/jdFBHbf.png)
+        >
+        > 
         > *this what a correct config should like*
 
 <br>
@@ -117,6 +125,8 @@ and you'd only have to change `ProgramPath"` and `"password"`.
  * You are done with the setup, now whenever you launch `eg: discord` you'll be prompted to enter the passwrd firs, and discord will only launch when correct pass is entered.
      > 
      > ![Auth error](https://i.imgur.com/Hbc0IRD.png)
+     >
+     > 
      > Entering wrong password will display this message
      > accompanied by `Authentication_Failed.wav`
 
