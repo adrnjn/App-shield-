@@ -68,7 +68,7 @@ Instead of directly launching protected applications, users launch App Shield, w
 - Look for the latest release version
 
 ## Documentation
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/Documentation-page-100000?style=flat&logo=&logoColor=807979&labelColor=DD3C02&color=B2B5BD'/></a>
+<a href='https://adrnjn.github.io/App-shield-/#/' target="_blank"><img alt='' src='https://img.shields.io/badge/Documentation-page-100000?style=flat&logo=&logoColor=807979&labelColor=DD3C02&color=B2B5BD'/></a>
 
 ## Screenshots
 
